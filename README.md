@@ -1,4 +1,4 @@
-# Sample-service-worker
+# Sample Service Worker
 
 It's sample service worker with webpack and localhost server https
 
